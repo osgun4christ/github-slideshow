@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Definitely I love Jesus
 Use the left arrow to go back!
